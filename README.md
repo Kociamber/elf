@@ -1,5 +1,5 @@
 # Elixir LiveView Formatter
-with static code analyser ;)
+
 __WIP!__
 [LiveView](https://github.com/phoenixframework/phoenix_live_view) powered in-browser Elixir code formatter and Credo analyser.
 
